@@ -1,0 +1,52 @@
+{"frames": [
+
+{
+	"filename": "stickgirl",
+	"frame": {"x":0,"y":0,"w":1000,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1000,"h":100},
+	"sourceSize": {"w":1000,"h":100}
+},
+{
+	"filename": "stickgirl2",
+	"frame": {"x":1000,"y":0,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+{
+	"filename": "stickgirl3",
+	"frame": {"x":1100,"y":0,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+{
+	"filename": "stickgirljump",
+	"frame": {"x":1200,"y":0,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+{
+	"filename": "stickgirljump2",
+	"frame": {"x":1300,"y":0,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "stickgirly.png",
+	"format": "RGBA8888",
+	"size": {"w":1400,"h":100},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:5ff78920bf20e6aaeb6da1b3b1d18166:e808035413ee20bb64277f49ea52d1d9:fdbb949f6abb0deb24609343847c9b24$"
+}
+}
