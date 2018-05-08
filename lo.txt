@@ -1,2 +1,2 @@
-string locomotion = "sweet";
+string locomotion = "nooooooooooo";
 int super loco = 109903322;
